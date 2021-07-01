@@ -1,0 +1,15 @@
+# This is Markdown
+
+This "concept" wasn't created in DITA at all!
+
+- It's Markdown
+- It's processed by `dita-ot`
+- That's cool
+
+<table>
+<tr>
+<td>Here's an HTML table!</td>
+</tr>
+</table>
+
+Does HTML get processed?

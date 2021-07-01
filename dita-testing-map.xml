@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <topicref href="dita-source/concept.xml"></topicref>
+  <topicref href="md-source/markdown-concept.md" format="markdown"></topicref>
+</map>
