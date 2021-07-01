@@ -25,4 +25,4 @@ See [concept](../dita-source/concept.xml) and <xref href="../dita-source/concept
 
 See [Markdown DITA Reference](https://www.dita-ot.org/dev/topics/markdown-dita-syntax-reference.html)
 
-	<note type="warning">A note can be a warning!</note>
+<note type="warning">A note can be a warning!</note>
