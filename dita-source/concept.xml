@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="new_concept">
+	<title>My New Concept</title>
+	<shortdesc>This is where I explore creating a concept in DITA.</shortdesc>
+	<conbody>
+	<p>La di da, this is a concept. Look, I am writing a paragraph.</p>
+	<note type="warning">A note can be a warning!</note>
+  <p><xref href="../md-source/markdown-concept.md">mark</xref></p>
+	<p>Another section</p>
+	<note type="tip">Don't fasten the bolts too tightly. First make sure all the pieces
+fit well together, and then tighten them down firmly.</note>
+	</conbody>
+</concept>
